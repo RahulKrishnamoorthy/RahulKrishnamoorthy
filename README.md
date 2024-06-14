@@ -1,16 +1,16 @@
 ### π¨βπ» Rahul Krishnamoorthy π€
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+%2F+ML+%2F+Generative+AI+Engineer;Data+Engineer;Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=π§ββοΈ+AI+%2F+ML+%2F+Generative+AI+Engineer;π§βπ»+Data+Engineer;π¨βπ»+Software+Engineer)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/92667122/230964774-a22fe724-3c7f-4c23-8dab-f463f2dd52f0.gif">
 
-π­ Iβm currently working on **Generative AI and MLOps**  
-π± Iβm currently learning **NLP, Computer Vision, and Reinforcement Learning**  
-π― Iβm looking to collaborate on **innovative AI/ML projects**  
-π€ Iβm looking for help with **cutting-edge AI research**  
-π¬ Ask me about **AI, ML, Data Engineering, and Software Development**  
+π­ Iβm currently working on **π€Generative AI and MLOps**  
+π± Iβm currently learning **π¬NLP, Computer Vision, and Reinforcement Learning**  
+π― Iβm looking to collaborate on **π€innovative AI/ML projects**  
+π€ Iβm looking for help with **π₯cutting-edge AI research**  
+π¬ Ask me about **π§ AI, ML, Data Engineering, and Software Development**  
 π Pronouns: **He/Him**  
-β' Fun fact: **I love exploring the intersection of technology and creativity!**  
+β' Fun fact: **π¨βπ¨I love exploring the intersection of technology and creativity!**  
 
 ### π  Languages and Tools:
 <p align="center">
