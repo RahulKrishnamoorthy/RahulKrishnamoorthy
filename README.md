@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Generative AI and MLOps**  
 - 🌱 I’m currently learning **NLP, Computer Vision, and Reinforcement Learning**  
 - 👯 I’m looking to collaborate on **innovative AI/ML projects**  
-- 🤔 I’m looking for help with **cutting-edge AI research**  
+- 🤔 I’m looking for help with **cutting-edge AI research topics**  
 - 💬 Ask me about **AI, ML, Data Engineering, and Software Development**  
 - ⚡ Pronouns: **He/Him**  
 - 😄 Fun fact: **I love exploring the intersection of technology and creativity!**  
@@ -21,7 +21,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-right: 10px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" style="margin-right: 10px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 10px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="40" height="40" style="margin-right: 10px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right: 10px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin-right: 10px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin-right: 10px;" />
